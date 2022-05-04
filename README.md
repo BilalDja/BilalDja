@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi 👋🏻
 
+I'm a senior fullstack developer. I ♥️ JS (TS) echo system on both sides Back and front, but recently I'm working with Java ☕ specifically Spring Framework which I'm having a great experience using it 🥰
+
+- 💬 Ask me about Nodejs, Angular, vanilla JavaScript, Spring, Spring boot.
+- 🌱 I’m currently learning Microservice architechture [Microservice Product Management](https://github.com/BilalDja/microservice-product)
+
+I hope you'll find something usefull to you in my repos
+
+Best regards.
 <!--
 **BilalDja/BilalDja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
