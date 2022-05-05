@@ -1,4 +1,4 @@
-### Hi 👋🏻
+## Hi 👋🏻
 
 I'm a senior fullstack developer. I ♥️ JS (TS) echo system on both sides Back and front, but recently I'm working with Java ☕ specifically Spring Framework which I'm having a great experience using it 🥰
 
@@ -7,7 +7,15 @@ I'm a senior fullstack developer. I ♥️ JS (TS) echo system on both sides Bac
 
 I hope you'll find something usefull to you in my repos
 
+### Social media
+
+<a href="https://www.linkedin.com/in/bdjaghout">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<br>
+
 Best regards.
+
 <!--
 **BilalDja/BilalDja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
