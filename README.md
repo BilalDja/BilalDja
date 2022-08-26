@@ -9,9 +9,14 @@ I hope you'll find something usefull to you in my repos
 
 ### Social media
 
-<a href="https://www.linkedin.com/in/bdjaghout">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<div style="display: flex; gap: 10px">
+  <a href="https://www.linkedin.com/in/bdjaghout">
+    <img alt="Bilal Djaghout LinkedIn" width="48px" src="./assets/linkedin.png" />
+  </a>
+  <a href="https://www.twitter.com/BDjaghout">
+    <img alt="Bilal Djaghout twitter" width="48px" src="./assets/twitter.png" />
+  </a>
+</div>
 <br>
 
 Best regards.
