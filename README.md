@@ -7,14 +7,17 @@ I'm a senior fullstack developer. I ♥️ JS (TS) echo system on both sides Bac
 
 I hope you'll find something usefull to you in my repos
 
-### Social media
+### 📫 How to reach me
 
-<div style="display: flex; gap: 10px">
+<div style="display: flex; gap: 15px; justify-content: flex-start">
   <a href="https://www.linkedin.com/in/bdjaghout">
     <img alt="Bilal Djaghout LinkedIn" width="48px" src="./assets/linkedin.png" />
   </a>
   <a href="https://www.twitter.com/BDjaghout">
     <img alt="Bilal Djaghout twitter" width="48px" src="./assets/twitter.png" />
+  </a>
+  <a href="mailto: b.djaghout@gmail.com">
+    <img alt="Bilal Djaghout twitter" width="48px" src="./assets/gmail.png" />
   </a>
 </div>
 <br>
