@@ -1,6 +1,6 @@
 ## Hi 👋🏻
 
-I'm a senior fullstack developer. I ♥️ JS (TS) echo system on both sides Back and front, but recently I'm working with Java ☕ specifically Spring Framework 🍃 which I'm having a great experience using it 🥰
+I'm a senior fullstack developer. I ♥️ JS (TS) echo system on both sides Back and front, but in the last 2 years I'm working with Java ☕ specifically Spring Framework 🍃 which I'm having a great experience using it 🥰
 
 - 💬 Ask me about Nodejs, Angular, vanilla JavaScript, Spring, Spring boot.
 - 🌱 I’m currently learning Microservice architechture [Microservice Product Management](https://github.com/BilalDja/microservice-product)
