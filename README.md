@@ -1,40 +1,16 @@
 ## Hi 👋🏻
 
-I'm a senior fullstack developer. I ♥️ JS (TS) echo system on both sides Back and front, but in the last 2 years I'm working with Java ☕ specifically Spring Framework 🍃 which I'm having a great experience using it 🥰
+I'm Bilal, a senior full-stack developer passionate about building efficient and scalable software solutions. I specialize in the JS (TS) ecosystem, crafting both robust backends and dynamic frontends. My current focus is on building cutting-edge solutions using NestJS 🚀, a framework I deeply enjoy working with.
 
-- 💬 Ask me about Nodejs, Angular, vanilla JavaScript, Spring, Spring boot.
-- 🌱 I’m currently learning Microservice architechture [Microservice Product Management](https://github.com/BilalDja/microservice-product)
+- 💬 Ask me about Node.js, Angular, vanilla JavaScript, and NestJS.  
+- 🌱 I’m currently exploring Microservice architecture and building a [Microservice Product Management](https://github.com/BilalDja/microservice-product) project to deepen my understanding.  
 
-I hope you'll find something usefull to you in my repos
+I hope you'll find something useful in my repositories. 😊  
 
-### 📫 How to reach me
+### 📫 How to reach me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bilal%20Djaghout-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bdjaghout)  
+[![Twitter](https://img.shields.io/badge/Twitter-BDjaghout-1DA1F2?style=flat-square&logo=twitter)](https://www.twitter.com/BDjaghout)  
+[![Gmail](https://img.shields.io/badge/Email-b.djaghout@gmail.com-red?style=flat-square&logo=gmail)](mailto:b.djaghout@gmail.com)  
 
-<div style="display: flex; gap: 15px; justify-content: flex-start">
-  <a href="https://www.linkedin.com/in/bdjaghout">
-    <img alt="Bilal Djaghout LinkedIn" width="48px" src="./assets/linkedin.png" />
-  </a>
-  <a href="https://www.twitter.com/BDjaghout">
-    <img alt="Bilal Djaghout twitter" width="48px" src="./assets/twitter.png" />
-  </a>
-  <a href="mailto: b.djaghout@gmail.com">
-    <img alt="Bilal Djaghout twitter" width="48px" src="./assets/gmail.png" />
-  </a>
-</div>
-<br>
-
-Best regards.
-
-<!--
-**BilalDja/BilalDja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Best regards,  
+Bilal
